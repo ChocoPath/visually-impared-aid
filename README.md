@@ -1,2 +1,2 @@
 # developers
-Watch out for </head> !!!!
+Watch out for //</head> !!!!
