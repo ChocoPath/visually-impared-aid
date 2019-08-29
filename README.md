@@ -1,4 +1,2 @@
 # developers
-Watch out for //</head>US !!!!
-The head no dey want show... I tire saff
-tcheeeeew
+A project to aid the visually impared navigate around
